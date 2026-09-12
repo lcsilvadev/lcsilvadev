@@ -55,13 +55,13 @@ Me chamo Lucas, profissional de Suporte TI em transição para Desenvolvimento d
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-blond-kappa-45.vercel.app/api?username=lcsilvadev&show_icons=true&theme=radical"
+    src="https://github-readme-stats-blond-kappa-45.vercel.app/api?username=lcsilvadev&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-blond-kappa-45.vercel.app/api/top-langs/?username=lcsilvadev&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats-blond-kappa-45.vercel.app/api/top-langs/?username=lcsilvadev&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=8&count_private=true&include_all_commits=true" 
   />
 
 </p>
